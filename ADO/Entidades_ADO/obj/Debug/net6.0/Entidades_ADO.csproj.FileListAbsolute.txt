@@ -1,0 +1,12 @@
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\bin\Debug\net6.0\Entidades_ADO.deps.json
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\bin\Debug\net6.0\Entidades_ADO.dll
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\bin\Debug\net6.0\Entidades_ADO.pdb
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.csproj.AssemblyReference.cache
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.AssemblyInfoInputs.cache
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.AssemblyInfo.cs
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.csproj.CoreCompileInputs.cache
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.dll
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\refint\Entidades_ADO.dll
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\Entidades_ADO.pdb
+C:\Users\ezequiel.taboada\Desktop\info\ADO\Entidades_ADO\obj\Debug\net6.0\ref\Entidades_ADO.dll
