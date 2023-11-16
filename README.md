@@ -6,7 +6,7 @@ query para obtner los datos de mysql:
 instalar el nuggets: 
 *_MySql.Data_* 
 
-Datos de los connectionString: 
+Datos de los connectionString:  
 "Server=localhost;Database=nombre_de_tu_bd;User ID=nombre_de_usuario;Password=contraseña;SslMode=none;";  
 Server-> solo localhost sin puerto ni nada.  
 Database-> nombre de la base de datos.  
